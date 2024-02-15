@@ -6,7 +6,6 @@ The Secure Task Management App is a web-based application designed to help users
 * User Authentication: Secure authentication system to allow users to register, log in, and securely access their tasks.
 * Task Management: Create, update, and delete tasks with ease.
 * Security: Implement measures to protect user data and ensure confidentiality.
- ## Technologies Used
 
 ## Installation
 To run the Secure Task Management App locally, follow these steps:
@@ -29,15 +28,6 @@ npm install
 Set up environment variables:
 
 Create a .env file in the root directory.
-
-Add the following variables to the .env file:
-
-plaintext
-Copy code
-PORT=3000
-MONGODB_URI=<your_mongodb_uri>
-JWT_SECRET=<your_jwt_secret>
-Start the server:
 
 bash
 Copy code
