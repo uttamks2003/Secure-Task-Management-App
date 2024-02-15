@@ -2,17 +2,13 @@
 
 The Secure Task Management App is a web-based application designed to help users manage their tasks securely. The app provides features for creating, updating, and deleting tasks, as well as user authentication to ensure data privacy and security.
 
-##Features
-*User Authentication: Secure authentication system to allow users to register, log in, and securely access their tasks.
-*Task Management: Create, update, and delete tasks with ease.
-*Security: Implement measures to protect user data and ensure confidentiality.
-Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JSON Web Tokens (JWT)
-Encryption: bcrypt.js for password hashing
-Installation
+## Features
+* User Authentication: Secure authentication system to allow users to register, log in, and securely access their tasks.
+* Task Management: Create, update, and delete tasks with ease.
+* Security: Implement measures to protect user data and ensure confidentiality.
+ ## Technologies Used
+
+## Installation
 To run the Secure Task Management App locally, follow these steps:
 
 Clone the repository:
@@ -46,18 +42,14 @@ Start the server:
 bash
 Copy code
 npm start
-Open your web browser and navigate to http://localhost:3000 to access the application.
+Open your web browser and navigate to http://localhost:3080 to access the application.
 
-Usage
-Register: Sign up for a new account to get started.
-Login: Log in with your credentials to access your tasks.
-Create Task: Add a new task by providing a title, description, and due date.
-Update Task: Edit existing tasks to modify details or mark them as complete.
-Delete Task: Remove unwanted tasks from your list.
-Contributing
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the Secure Task Management App.
+ ## Usage
+* Register: Sign up for a new account to get started.
+* Login: Log in with your credentials to access your tasks.
+* Create Task: Add a new task by providing a title, description, and due date.
+* Update Task: Edit existing tasks to modify details or mark them as complete.
+* Delete Task: Remove unwanted tasks from your list.
 
-License
-This project is licensed under the MIT License.
 
-Feel free to add more sections or details as needed to provide comprehensive information about your project.
+
